@@ -13,4 +13,4 @@ TreeADT: Contains a Binary Search Tree and Tree Node classes, with an ADT Tree b
 
 Please cite any use of this repo as:
 
-Boyarsky, Ariel. "Data-Structures." 2015. Github Repository. https://github.com/ariboyarsky/Data-Structures
+Boyarsky, Ariel. "Data-Structures." 2015. Github Repository. https://github.com/ariboyarsky/Data-Structures.
